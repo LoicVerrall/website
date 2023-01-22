@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <div className={styles.helloBanner}>
           <h1 className={styles.title}>
-            Hello, I'm Loic.
+            Hello, I&apos;m Loic.
           </h1>
           <p>
             I am a full-stack software engineer taking a short break to explore the world!
