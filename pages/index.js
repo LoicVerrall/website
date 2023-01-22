@@ -12,12 +12,12 @@ export default function Home() {
 
       <main>
         <div className={styles.helloBanner}>
+          <ProfileImage />
           <h1 className={styles.title}>Hello, I&apos;m Loic.</h1>
           <p>
             I am a full-stack software engineer taking a short break to explore
             the world!
           </p>
-          <ProfileImage />
         </div>
       </main>
     </div>
