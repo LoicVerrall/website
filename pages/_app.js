@@ -1,6 +1,6 @@
 // Import the global styles sheet
-import '../styles/globals.css';
-import Layout from '../components/Layout'
+import "../styles/globals.css";
+import Layout from "@/components/Layout";
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -8,4 +8,4 @@ export default function MyApp({ Component, pageProps }) {
       <Component {...pageProps} />
     </Layout>
   );
-};
+}
