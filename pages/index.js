@@ -1,3 +1,4 @@
+import ProfileImage from "@/components/ProfileImage";
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 
@@ -16,6 +17,7 @@ export default function Home() {
             I am a full-stack software engineer taking a short break to explore
             the world!
           </p>
+          <ProfileImage />
         </div>
       </main>
     </div>
