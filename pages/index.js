@@ -25,7 +25,7 @@ export default function Home() {
 
           <p>
             I am a full-stack software engineer working at {''}
-            <a href="https://omaze.co.uk" target="_blank">
+            <a href="https://omaze.co.uk" target="_blank" rel="noreferrer">
               Omaze UK
             </a>.
           </p>
