@@ -24,6 +24,10 @@
   padding: 2em;
 }
 
+.helloBanner a {
+  text-decoration: underline;
+}
+
 .title {
   margin: 2rem 0 1rem;
   line-height: 1.15;
