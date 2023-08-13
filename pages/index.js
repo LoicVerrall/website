@@ -13,10 +13,16 @@ export default function Home() {
       <main>
         <div className={styles.helloBanner}>
           <ProfileImage />
-          <h1 className={styles.title}>Hello, I&apos;m Loic.</h1>
+
+          <h1 className={styles.title}>
+            Hello, I&apos;m Loic.
+          </h1>
+
           <p>
-            I am a full-stack software engineer taking a short break to explore
-            the world!
+            I am a full-stack software engineer working at {''}
+            <a href="https://omaze.co.uk" target="_blank">
+              Omaze UK
+            </a>.
           </p>
         </div>
       </main>
