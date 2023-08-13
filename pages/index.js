@@ -7,6 +7,11 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Loic Verrall</title>
+        <meta
+          name="description"
+          content="I am a full-stack software engineer working at Omaze UK."
+          key="desc"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
